@@ -1,7 +1,5 @@
 # chatbot_cd
-Chat Bot using gpt-3.5-turbo
-made in node.js
-runs in terminal
+Chat Bot using 'gpt-3.5-turbo' - made in node.js - runs in terminal
 
 ![image](https://github.com/no-logik/chatbot_cd/assets/89860330/1eb7d8f5-626c-4bd2-999c-10dab9a6a891)
 
