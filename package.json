@@ -1,0 +1,29 @@
+{
+  "name": "chatbot_cd",
+  "version": "1.0.0",
+  "description": "Chat bot application using Chat GPT's API for the preliminary exercise II for development role 2024 @ clouddefense.ai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no-logik/chatbot_cd.git"
+  },
+  "author": "Abhay Singh Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/no-logik/chatbot_cd/issues"
+  },
+  "homepage": "https://github.com/no-logik/chatbot_cd#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.4",
+    "nodemon": "^3.0.3",
+    "npm": "^10.4.0",
+    "openai": "^4.28.0",
+    "readline-sync": "^1.4.10"
+  }
+}
